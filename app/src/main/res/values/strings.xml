@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidTesting</string>
+    <string name="list">Ver listado</string>
+    <string name="registration">Registrarse</string>
+    <string name="name">Nombre</string>
+    <string name="email">Email</string>
+    <string name="invalid_user_data">Ingrese todos sus datos</string>
+    <string name="loading_info">Cargando Información</string>
+</resources>
